@@ -1,0 +1,15 @@
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.exe
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.deps.json
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.runtimeconfig.json
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.dll
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\bin\Debug\net6.0\ref\WordleSolver.dll
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\bin\Debug\net6.0\WordleSolver.pdb
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.csproj.AssemblyReference.cache
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.AssemblyInfoInputs.cache
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.AssemblyInfo.cs
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.csproj.CoreCompileInputs.cache
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.dll
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\ref\WordleSolver.dll
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.pdb
+D:\Personal Projects\wordle-solver\WordleSolver\WordleSolver\obj\Debug\net6.0\WordleSolver.genruntimeconfig.cache
